@@ -201,14 +201,23 @@ There was missing data from 3230 water systems that serve 39.54 million people. 
 
 ### Sources
 https://www.waterboards.ca.gov/water_issues/programs/hr2w/
+
 https://www.latimes.com/projects/california-drinking-water-contaminat
+
 https://www.auditor.ca.gov/reports/2021-118/index.html
+
 https://www.atsdr.cdc.gov/csem/arsenic/physiologic_effects.html
+
 https://www.apha.org/policies-and-advocacy/public-health-policy-statements/policy-database/2020/01/13/drinking-water-and-public-health-in-the-united-states
+
 https://github.com/mikhailsirenko/bivariate-choropleth/blob/main/bivariate-choropleth.ipynb
+
 https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines/prior-hhs-poverty-guidelines-federal-register-references/2017-poverty-guidelines#threshholds
+
 https://hdpulse.nimhd.nih.gov/data-portal/social/map?socialtopic=080&socialtopic_options=social_6&demo=00008&demo_options=poverty_3&race=00&race_options=race_7&sex=0&sex_options=sex_3&age=001&age_options=ageall_1&statefips=06&statefips_options=area_states
+
 https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems
+
 https://gispublic.waterboards.ca.gov/arcgis/rest/services/Lead_in_Schools/Lead_in_Schools/MapServer
 
 
