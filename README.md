@@ -48,25 +48,132 @@ The highest poverty rates are summarized here:
     <td>Trinity</td>
     <td>22.5</td>
   </tr>
+  <tr>
+    <td>Imperial</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>Humboldt</td>
+    <td>20.3</td>
+  </tr>
+  <tr>
+    <td>Fresno</td>
+    <td>20.2</td>
+  </tr>
+  <tr>
+    <td>Tulare</td>
+    <td>19.8</td>
+  </tr>
 </table>
   
 When evaluating water system status, most are not at risk, but a substantial amount of water systems serving 722,750 people are failing. 
 <img src= "statuses.png">
 
+<table>
+  <tr>
+    <th> </th>
+    <th>Failing</th>
+    <th>At-Risk</th>
+    <th>Potentially At-Risk</th>
+    <th>Not At-Risk</th>
+  </tr>
+  <tr>
+    <td># systems</td>
+    <td>363</td>
+    <td>598</td>
+    <td>431</td>
+    <td>1668</td>
+  </tr>
+  <tr>
+    <td>population</td>
+    <td>722,752</td>
+    <td>1,397,743</td>
+    <td>1,344,282</td>
+    <td>11,881,362</td>
+  </tr>
+</table>
+
 The highest average water risk assessment scores were clustered mostly in the Central Valley.
 <img src= "waterstatus.png">
 
-The counties with the highest scores are seen in the table:
+The counties with the highest average risk scores are seen in the table. Values range from 0-1, with 0 being not at-risk and 1 being failing.
 <table>
+  <tr>
+    <th>County</th>
+    <th>Avg score</th>
+  </tr>
+  <tr>
+    <td>Merced</td>
+    <td>0.562</td>
+  </tr>
+  <tr>
+    <td>Kern</td>
+    <td>0.551</td>
+  </tr>
+  <tr>
+    <td>Tulare</td>
+    <td>0.544</td>
+  </tr>
+  <tr>
+    <td>Madera</td>
+    <td>0.49</td>
+  </tr>
+  <tr>
+    <td>Fresno</td>
+    <td>0.474</td>
+  </tr>
+</table>
 
 The counties with the highest proportion of failing water systems are also clustered in the Central Valley.
 <img src= "failing.png">
 <table>
+  <tr>
+    <th>County</th>
+    <th>%</th>
+  </tr>
+  <tr>
+    <td>Madera</td>
+    <td>32.92</td>
+  </tr>
+  <tr>
+    <td>Kern</td>
+    <td>32.78</td>
+  </tr>
+  <tr>
+    <td>Merced</td>
+    <td>30.56</td>
+  </tr>
+  <tr>
+    <td>Tulare</td>
+    <td>26.5</td>
+  </tr>
+</table>
 
 Counties with the highest proportion of schools with ALE are in northern and central counties. 
 <img src= "lead.png" >
 
 <table>
+  <tr>
+    <th>County</th>
+    <th>% of Schools</th>
+  </tr>
+  <tr>
+    <td>Plumas</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Kings</td>
+    <td>21.74</td>
+  </tr>
+  <tr>
+    <td>Siskiyou</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Madera</td>
+    <td>14.29</td>
+  </tr>
+</table>
   
 ### Bivariate
 
