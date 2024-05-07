@@ -177,15 +177,15 @@ Counties with the highest proportion of schools with ALE are in northern and cen
   
 ### Bivariate
 
-The linear regression of poverty rate as the predictor and average water assessment score as the outcome revealed an R^2 of 0.18 and a p-value of 0.001.
+The linear regression of poverty rate as the predictor and average water assessment score as the outcome revealed an R<sup>2</sup> of 0.18 and a p-value of 0.001.
 
 <img src= "pov_waterscore_status.png">
 
-The linear regression of poverty rate as a predictor and proportion of failing water systems as the outcome resulted in an R^2 of 0.14 and a p-value of 0.004.
+The linear regression of poverty rate as a predictor and proportion of failing water systems as the outcome resulted in an R<sup>2</sup> of 0.14 and a p-value of 0.004.
 
 <img src= "pov_failing_status.png">
 
-The linear regression of poverty rates by the proportion of schools with ALE found an R^2 of 0.004 and a p-value of 0.649.
+The linear regression of poverty rates by the proportion of schools with ALE found an R<sup>2</sup> of 0.004 and a p-value of 0.649.
 
 <img src= "pov_lead.png">
 
@@ -198,3 +198,18 @@ Given that there is a large cluster of high-risk water systems in the Central Va
 ## Limitations
 
 There was missing data from 3230 water systems that serve 39.54 million people. More data as stated in the conclusion are needed to improve models. 
+
+### Sources
+https://www.waterboards.ca.gov/water_issues/programs/hr2w/
+https://www.latimes.com/projects/california-drinking-water-contaminat
+https://www.auditor.ca.gov/reports/2021-118/index.html
+https://www.atsdr.cdc.gov/csem/arsenic/physiologic_effects.html
+https://www.apha.org/policies-and-advocacy/public-health-policy-statements/policy-database/2020/01/13/drinking-water-and-public-health-in-the-united-states
+https://github.com/mikhailsirenko/bivariate-choropleth/blob/main/bivariate-choropleth.ipynb
+https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines/prior-hhs-poverty-guidelines-federal-register-references/2017-poverty-guidelines#threshholds
+https://hdpulse.nimhd.nih.gov/data-portal/social/map?socialtopic=080&socialtopic_options=social_6&demo=00008&demo_options=poverty_3&race=00&race_options=race_7&sex=0&sex_options=sex_3&age=001&age_options=ageall_1&statefips=06&statefips_options=area_states
+https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems
+https://gispublic.waterboards.ca.gov/arcgis/rest/services/Lead_in_Schools/Lead_in_Schools/MapServer
+
+
+
