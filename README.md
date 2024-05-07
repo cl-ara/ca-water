@@ -6,3 +6,4 @@ In a social epidemiologial study conducted in 2005-2010, scientists found an ass
 
 This exploratory analysis examines the associations between poverty and unsafe drinking water systems/water safety violations in current day California.
 
+<img src= "lead_dot_plot.png">
