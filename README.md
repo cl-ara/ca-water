@@ -1,4 +1,6 @@
-# Clean Water Accessibility in California
+# Clean Water Access in California
+### Clara Voong
+### April 2024
 
 ## Background
 Access to clean drinking water is essential to ensuring public health and preventing the spread of infectious diseases like cholera and typhoid. The Centers for Disease Control and Prevention (CDC) found that 477,000 people became sick and 6,900 died from waterborne infectious diseases in the US from 2003 to 2009. In addition to water-borne illnesses, water contaminated with lead, arsenic, nitrate, and 1-2-3 TCP can cause severe health consequences like skin cancer and problems with the cardiovascular, gastrointestinal, and neurological systems. 
@@ -56,15 +58,20 @@ Counties with the highest proportion of schools with ALE are in northern and cen
 <img src= "lead.png" >
 
 <table>
-
   
 ### Bivariate
 
 The linear regression of poverty rate as the predictor and average water assessment score as the outcome revealed an R^2 of 0.18 and a p-value of 0.001.
-<img >
+
+<img src= "pov_waterscore_status.png">
+
 The linear regression of poverty rate as a predictor and proportion of failing water systems as the outcome resulted in an R^2 of 0.14 and a p-value of 0.004.
-<img >
+
+<img src= "pov_failing_status.png">
+
 The linear regression of poverty rates by the proportion of schools with ALE found an R^2 of 0.004 and a p-value of 0.649.
+
+<img src= "pov_lead.png">
 
 ## Conclusion
 
