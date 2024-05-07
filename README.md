@@ -1,6 +1,6 @@
 # Clean Water Access in California
-### Clara Voong
-### April 2024
+##### Clara Voong
+##### April 2024
 
 ## Background
 Access to clean drinking water is essential to ensuring public health and preventing the spread of infectious diseases like cholera and typhoid. The Centers for Disease Control and Prevention (CDC) found that 477,000 people became sick and 6,900 died from waterborne infectious diseases in the US from 2003 to 2009. In addition to water-borne illnesses, water contaminated with lead, arsenic, nitrate, and 1-2-3 TCP can cause severe health consequences like skin cancer and problems with the cardiovascular, gastrointestinal, and neurological systems. 
@@ -40,6 +40,15 @@ The highest poverty rates are seen in two main clusters: most northern counties,
 
 The highest poverty rates are summarized here:
 <table>
+  <tr>
+    <th>County</th>
+    <th>% in Poverty</th>
+  </tr>
+  <tr>
+    <td>Trinity</td>
+    <td>22.5</td>
+  </tr>
+</table>
   
 When evaluating water system status, most are not at risk, but a substantial amount of water systems serving 722,750 people are failing. 
 <img src= "statuses.png">
