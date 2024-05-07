@@ -34,26 +34,27 @@ All data cleaning, analyses, and visualizations were conducted using Python.
 
 The highest poverty rates are seen in two main clusters: most northern counties, Central Valley, and one in the southern part of the state.
 
-<img src= "lead_dot_plot.png">
+<img src= "pov.png">
 
 The highest poverty rates are summarized here:
 <table>
   
 When evaluating water system status, most are not at risk, but a substantial amount of water systems serving 722,750 people are failing. 
-<img >
+<img src= "statuses.png">
 
 The highest average water risk assessment scores were clustered mostly in the Central Valley.
-<img>
+<img src= "waterstatus.png">
 
 The counties with the highest scores are seen in the table:
 <table>
 
 The counties with the highest proportion of failing water systems are also clustered in the Central Valley.
-<img>
+<img src= "failing.png">
 <table>
 
 Counties with the highest proportion of schools with ALE are in northern and central counties. 
-<img >
+<img src= "lead.png" >
+
 <table>
 
   
